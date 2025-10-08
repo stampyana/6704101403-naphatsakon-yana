@@ -38,6 +38,8 @@ export default defineConfig((/* ctx */) => {
       },
 
       vueRouterMode: 'hash', // available values: 'hash', 'history'
+      publicPath: '/6704101403-naphatsakon-yana/',
+
       // vueRouterBase,
       // vueDevtools,
       // vueOptionsAPI: false,
