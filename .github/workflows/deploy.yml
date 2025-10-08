@@ -2,7 +2,7 @@ name: Deploy Quasar SPA to GitHub Pages
 
 on:
   push:
-    branches: [ "master" ] # 👈 ถ้าสาขาหลักชื่อ master ให้คงไว้แบบนี้
+    branches: [ "cicd" ] # 👈 ถ้าสาขาหลักชื่อ master ให้คงไว้แบบนี้
 
 jobs:
   build-and-deploy:
